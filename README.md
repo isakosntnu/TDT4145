@@ -1,6 +1,6 @@
 # Prosjekt DB2
 
-Følgende tekst er lik som pdf filen som ligger vedlagt.
+Prosjekt i faget TDT4145 - datamodellering og databasesystemer.
 
 ## Gruppemedlemmer
 
